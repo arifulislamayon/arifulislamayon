@@ -25,7 +25,7 @@ Skills: C, Java,flutter, Dart, php, Html, CSS, , JavaScript, My-SQL.
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abusufiancse)  
 
-![Profile views](https://gpvc.arturio.dev/abusufiancse)  
+![Profile views](https://gpvc.arturio.dev/arifulislamcse)  
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
