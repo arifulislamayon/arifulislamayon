@@ -19,11 +19,11 @@ Skills: C, Java,flutter, Dart, php, Html, CSS, , JavaScript, My-SQL.
 - 📫 How to reach me **ariful15-3741@diu.edu.bd**
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abusufiancse)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArifulIslam)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=abusufiancse&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ArifulIslam&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abusufiancse)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ArifulIslam)  
 
 ![Profile views](https://gpvc.arturio.dev/arifulislamcse)  
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
@@ -31,7 +31,7 @@ Skills: C, Java,flutter, Dart, php, Html, CSS, , JavaScript, My-SQL.
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/abusufiancse/">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/ArifulIslam/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/abusufiancse/">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
